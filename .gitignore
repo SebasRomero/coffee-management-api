@@ -38,4 +38,3 @@ lerna-debug.log*
 
 .env
 .env.dev
-.env.dev.example
